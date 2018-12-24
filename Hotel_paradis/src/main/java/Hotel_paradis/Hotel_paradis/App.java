@@ -12,5 +12,6 @@ public class App
 		System.out.println( "Bienvenu" );
 		System.out.println( "Branch cheikh" );
 		System.out.println( "Branch mohameden" );
+		System.out.println( "Bye bye" );
     }
 }
